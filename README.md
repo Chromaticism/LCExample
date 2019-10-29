@@ -1,2 +1,2 @@
-# Leetcode
-## This is the solution of leetcode problem in Java
+# L&C
+## This is the solution of L&C problem in Java
